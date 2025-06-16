@@ -32,6 +32,8 @@ Python의 requests, pandas 라이브러리를 활용하여 데이터를 수집�
 | 2    | 악마와의 약속 | 2024-06-14 | 95,300        | 1,220,000     |
 
 👉 엑셀 파일로 저장: `박스오피스_오늘.xlsx`
+🔗 실행하기 (Google Colab)  
+[Colab에서 보기](https://colab.research.google.com/drive/1IMQROqa-vVFC3wfVF4q-km6YWBnXdo0n)
 
 ---
 
